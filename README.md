@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://tessera.kimhwan.kr/logo.svg" width="96" alt="Tessera">
+<img src="https://tessera.kimhwan.com/logo.svg" width="96" alt="Tessera">
 
 # TESSERA — Desktop
 
@@ -11,7 +11,7 @@
 
 ### ⬇️ [최신 Windows 설치 파일 다운로드 / Download the latest Windows installer](https://github.com/akon47/tessera-releases/releases/latest)
 
-브라우저로 바로 플레이 · Play in your browser → **[tessera.kimhwan.kr](https://tessera.kimhwan.kr)**
+브라우저로 바로 플레이 · Play in your browser → **[tessera.kimhwan.com](https://tessera.kimhwan.com)**
 
 </div>
 
@@ -66,7 +66,7 @@ Click to lock the mouse · WASD move · Space jump (swim up) · Shift sprint/des
 ---
 
 <div align="center">
-<sub><a href="https://tessera.kimhwan.kr">Play</a> · <a href="https://tessera.kimhwan.kr/privacy">Privacy</a> · <a href="https://tessera.kimhwan.kr/terms">Terms</a> · © Tessera</sub>
+<sub><a href="https://tessera.kimhwan.com">Play</a> · <a href="https://tessera.kimhwan.com/privacy">Privacy</a> · <a href="https://tessera.kimhwan.com/terms">Terms</a> · © Tessera</sub>
 </div>
 
 ---
